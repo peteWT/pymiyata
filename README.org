@@ -1,0 +1,20 @@
+* ~pymiyata~: A forestry equipment cost calculator
+Python implementation of Edwin Miyata's paper:
+
+Miyata ES. Determining fixed and operating costs of logging equipment [Internet]. General Technical Report NC-55. 1980. Available from: http://www.nrs.fs.fed.us/pubs/gtr/gtr_nc055.pdf?
+
+#+BEGIN_SRC 
+@techreport{Miyata1980,
+abstract = {Describes and analyzes all elements of equipment cost and gives a procedure for estimating them.},
+author = {Miyata, Edwin S.},
+booktitle = {Gen. Tech. Rep. NC-55},
+institution = {US Forest Service},
+isbn = {USDA Forest Service GTR NC-55},
+mendeley-groups = {HFTD},
+pages = {1--20},
+pmid = {1421},
+title = {{Determining fixed and operating costs of logging equipment}},
+url = {http://www.nrs.fs.fed.us/pubs/gtr/gtr{\_}nc055.pdf?},
+year = {1980}
+}
+#+END_SRC
